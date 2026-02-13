@@ -1,0 +1,37 @@
+# Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+learn-env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+*.csv
+*.xlsx
+*.zip
+data/
+datasets/
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Mac/Linux temp
+*.swp
