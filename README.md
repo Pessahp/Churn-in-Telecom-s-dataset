@@ -1,5 +1,3 @@
-# Data Science End of P3 Project
-
 # Telecom Customer Churn Prediction
 
 # Overview
